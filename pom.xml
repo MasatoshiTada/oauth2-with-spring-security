@@ -11,7 +11,7 @@
 
     <modules>
         <module>client-jwt</module>
-        <module>client-opaque</module>
+        <module>api-gateway-jwt</module>
         <module>resource-server-jwt</module>
         <module>resource-server-opaque</module>
     </modules>
