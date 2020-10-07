@@ -38,7 +38,7 @@ public class ClientJwtApplication {
 
     public static void main(String[] args) {
         // api-gatewayにアクセスする場合は下記コメントを外す
-        System.setProperty("spring.profiles.active", "use-api-gateway");
+//        System.setProperty("spring.profiles.active", "use-api-gateway");
         SpringApplication.run(ClientJwtApplication.class, args);
     }
 
